@@ -150,5 +150,5 @@
 
 
 #pop.bottom-box()[
-  For further details: https://github.com/NyxFoundation/fv-agent-cans-poster
+  For further details: https://github.com/NyxFoundation/fv-agent-cans2025-poster
 ]
